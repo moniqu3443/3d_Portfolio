@@ -24,11 +24,11 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-[#ebb7ed] hover:scale-110 hover:text-yellow-300 transition-all duration-300">Monique</span>
+            Hi, I'm <span className="text-[#ebb7ed] hover:scale-110 hover:text-yellow-300 transition-all duration-300">Monique </span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a software engineer <br className="sm:block hidden" />
-            with a focus on full-stack development.
+          <p className={`${styles.heroSubText} mt-2 text-white-100 text-xs smail:text-sm md:text-base`}>
+           I have a passion for full-stack development.  <br className="sm:block hidden" />
+           See how I bring ideas to life with code and creativity.
           </p>
         </div>
       </div>
