@@ -31,9 +31,9 @@ This project leverages the following technologies:
 To run this project locally, follow these steps:
 1. 🌀 Clone the repository:
 	
-	git clone https://github.com/your-username/portfolio-website.git   
+	git clone https://github.com/your-username/3d_portfolio.git   
 2. 📂 Navigate to the project directory: 
-	cd portfolio-website  
+	cd 3d_portfolio  
 
 3. 📦 Install dependencies:  npm install   
 4. ▶️ Start the development server:  npm run dev   
