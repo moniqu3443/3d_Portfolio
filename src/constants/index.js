@@ -146,14 +146,6 @@ import {
           name: "  ",
           color: "blue-text-gradient",
         },
-        {
-          name: "  ",
-          color: "green-text-gradient",
-        },
-        {
-          name: "  ",
-          color: "pink-text-gradient",
-        },
       ],
       
       source_code_link: "https://github.com/",
