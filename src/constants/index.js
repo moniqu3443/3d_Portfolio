@@ -16,13 +16,12 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
-    tripguide,
+    fridgy,
     threejs,
+    printer,
+    whistle,
+    chromakopia,
+    mario,
   } from "../assets";
   
   export const navLinks = [
@@ -116,12 +115,13 @@ import {
   
   const experiences = [
     {
-      title: " ",
-      company_name: " ",
+      title: " 3D Printing Technician",
+      company_name: " Freelance 3D Print Seller ",
+      icon: printer,
       iconBg: "#383E56",
-      date: " ",
+      date: " August 2021 - Present",
       points: [
-        " Imma get a job soon!",
+        " Proficient in operating, maintaining, and troubleshooting various 3D printers (FDM, SLA, SLS), ensuring optimal print quality, machine calibration, and resolving software glitches as needed.",
       ],
     },
 
@@ -129,26 +129,32 @@ import {
   
   const testimonials = [
     {
-      testimonial:"",
-      name: " ",
-      designation: " ",
-      company: " ",
+      testimonial: "Huge whistle",
+      image: whistle,
     },
+    {
+      testimonial: "Chromakopia",
+      image: chromakopia,
+    },
+    {
+      testimonial: "Mario",
+      image: mario,
+    }
   ];
   
   const projects = [
     {
-      name: "  ",
+      name: "Fridgy",
       description:
-        "  ",
+        "A web application that helps users keep track of their groceries and suggests recipes based on the ingredients they have.",
       tags: [
         {
-          name: "  ",
+          name: "Figma ",
           color: "blue-text-gradient",
         },
       ],
-      
-      source_code_link: "https://github.com/",
+      image: fridgy,
+      source_code_link: "https://devpost.com/software/523110?flow%5Bdata%5D%5Binvitation_key%5D=44ygSx6oyitYXMBJ3Am2&flow%5Bname%5D=accept_software_invitation&ref_content=new_user_added_to_software_team&ref_feature=portfolio&ref_medium=email&utm_campaign=software&utm_content=invitation_to_join_software_team&utm_medium=email&utm_source=transactional",
     },
   ];
   

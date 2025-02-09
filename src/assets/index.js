@@ -8,6 +8,12 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import fridgy from "./fridgy.png";
 import devpost from "./devpost.png";
+import printer from "./printer.png";
+import printer2 from "./printer2.png";
+import printer3 from "./printer3.png";
+import chromakopia from "./chromakopia.png";
+import whistle from "./whistle.png";
+import mario from "./mario.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -22,12 +28,12 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import vscode from "./tech/vscode.png";
+import virtualbox from "./tech/virtualbox.png";
 
 import meta from "./company/meta.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -52,10 +58,14 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  fridgy,
+  devpost,
+  printer,
+  vscode,
+  virtualbox,
+  chromakopia,
+  printer3,
+  printer2,
+  whistle,
+  mario,
 };
